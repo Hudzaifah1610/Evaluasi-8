@@ -1,0 +1,99 @@
+.wrapping {
+  /* background: rebeccapurple; */
+  width: 50%;
+  height: 90vh;
+  margin: auto;
+}
+.gbr img {
+  width: 50%;
+  height: 450px;
+  margin: 30px 0 0 0;
+  border-radius: 3px;
+}
+.title p {
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 2px;
+  font-size: 40px;
+  font-family: 'IBM Plex Serif', serif;
+  text-align: center;
+  text-align: justify;
+  /* font-variant: small-caps; */
+}
+.wrapping h3 {
+  font-family: "Source Code Pro", monospace;
+  color: rgb(201, 194, 194);
+  margin-top: -20px;
+}
+.col1 img {
+  width: 8%;
+}
+.col2 h6 {
+  margin-left: 70px;
+  margin-top: -10px;
+}
+.col2 p {
+  font-size: 15px;
+  margin-left: 70px;
+  margin-top: -48px;
+}
+.gbr p{
+  text-align: center;
+  font-size: 16px;
+  color: grey;
+  margin-top: -1px;
+  font-family: "Noto Serif JP", serif;
+}
+.wrapping img{
+  width: 500px;
+}
+.jumbotron{
+  background: rgb(255, 255, 255);
+  box-shadow: 1px 1px 5px 0px rgb(139, 136, 136);
+  padding: 20px 0px 1px 0;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+.jumbotron p,h1{
+  width: 80%;
+  margin: 30px;
+  line-height: 30px;
+  margin-left: 70px;
+}
+.jumbotron Button{
+  border: none;
+  padding: 10px 50px 10px 50px;
+  border-radius: 3px;
+  background: rgb(32, 28, 28);
+  color: white;
+  font-family: 'Source Serif Pro', serif;
+}
+.jumbotron p{
+  color: rgb(168, 163, 163);
+}
+.jumbotron h1{
+  font-family: 'Hepta Slab', serif;
+}
+.button button{
+  padding: 10px;
+  border-radius: 3px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  background: rgb(235, 238, 238);
+  color: black;
+  border: none;
+}
+.more{
+  margin-left: -170px;
+  margin-right: -200px;
+}
+.more img{
+  width: 30%;
+  margin-right: 34px;
+  margin-left: 0px;
+}
+.more h2{
+  border-bottom: 1px solid rgb(236, 227, 227);
+  padding-bottom: 15px;
+  width: 96.5%;
+}
